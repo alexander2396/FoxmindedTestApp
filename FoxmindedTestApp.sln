@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxmindedTestApp", "FoxmindedTestApp\FoxmindedTestApp.csproj", "{46ADD8EF-5076-447B-9E2F-EE41AA97E23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxmindedTestApp.Tests", "FoxmindedTestApp.Tests\FoxmindedTestApp.Tests.csproj", "{A351545D-0C6F-4634-BF0F-1B97203D6F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46ADD8EF-5076-447B-9E2F-EE41AA97E23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ADD8EF-5076-447B-9E2F-EE41AA97E23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ADD8EF-5076-447B-9E2F-EE41AA97E23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ADD8EF-5076-447B-9E2F-EE41AA97E23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A351545D-0C6F-4634-BF0F-1B97203D6F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A351545D-0C6F-4634-BF0F-1B97203D6F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A351545D-0C6F-4634-BF0F-1B97203D6F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A351545D-0C6F-4634-BF0F-1B97203D6F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CABEAD-61D7-420D-A6DB-4E5CCC3DE24A}
+	EndGlobalSection
+EndGlobal
